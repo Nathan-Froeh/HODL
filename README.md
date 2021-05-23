@@ -8,7 +8,7 @@ HODL will have some similarities to coinmarketcap.com, so a user can view/search
 
 ## Technology
 
-- Next.js
+- Next.js, a React.js framework
 - TypeScript
 - Chakra UI
 
