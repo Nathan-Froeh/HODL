@@ -18,9 +18,20 @@ As a primarily front end developer this app will start out with no logins or bac
 
 [Track Progress Here](https://github.com/Nathan-Froeh/HODL/projects/1?add_cards_query=is%3Aopen)
 
-### Step 1: make a plan
-HODL is pre "hello world"
-Most of the planning and tasks will be in the projects tab
+### MVP
+#### Main page
+- Should show total money invested including fees, total fees paid, total current profit/loss.
+- should display a list of the top coins, with the option to search, go to next page, or select a coin to view more details.
+- should be able to view only favorited/owned coins
+
+#### Coin detail page
+- For the selected coin should show total money invested including fees, total fees paid, total current profit/loss.
+- should be able to add a transaction. Could be buying, selling, or fee for transfering coin to another wallet.
+- The ability to include a trade of one coin to another with fees may not be part of MVP
+
+#### Misc
+- set up for light/dark mode
+- save transactions and favorites in local storage or json file
 
 
 ## Credits
