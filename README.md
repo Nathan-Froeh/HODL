@@ -23,6 +23,6 @@ Most of the planning and tasks will be in the projects tab
 
 ## Credits
 
-### Nathan Froehlich
+### Nathan Froehlich - [LinkedIn](https://www.linkedin.com/in/nathan-froehlich/)
 A software developer that likes crypto, financial freedom, mountains, and a good dark beer after a long hike.
-[LinkedIn](https://www.linkedin.com/in/nathan-froehlich/)
+
