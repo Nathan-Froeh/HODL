@@ -16,6 +16,8 @@ HODL will have some similarities to coinmarketcap.com, so a user can view/search
 ## The Game Plan
 As a primarily front end developer this app will start out with no logins or back end, getting data about coins from 3rd party sources, and storing any of your transactions locally. My intention is to eventually build out a back end, DB, and login so anyone can use this to track their crypto, and eventually connect with other apps like CoinBase to automatically update transactions for you.
 
+[Track Progress Here](https://github.com/Nathan-Froeh/HODL/projects/1?add_cards_query=is%3Aopen)
+
 ### Step 1: make a plan
 HODL is pre "hello world"
 Most of the planning and tasks will be in the projects tab
